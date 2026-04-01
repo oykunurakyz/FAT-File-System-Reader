@@ -14,7 +14,7 @@ This project is a Python-based implementation of a FAT12 File System reader. It 
 * **fatspec.pdf:** Technical specification document for the FAT file system.
 
 ##  Requirements
-* Python 3.x
+* Python 3.9
 * Jupyter Notebook or VS Code (with Jupyter extension)
 
 ## 📖 How to Run
